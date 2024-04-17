@@ -4,7 +4,8 @@ const videoSources = [
     "https://c1.coomer.su/data/d1/26/d126953eef6870f8f461d74354b0b56c58795bcc45472997b5b1a5597bf9b69c.m4v?f=ad680407-6dbc-4fac-aff2-8c912e1a6c07.m4v",
     "https://thisvid.com/get_file/4/23276b5ae8e86298f00e3fb5d63313b2e3efaf6fd1/2020000/2020047/2020047.mp4/?rnd=1713376728777"
     
-
+   " https://thisvid.com/get_file/4/eb5475471592494dec10b49b41594224e2a45eab96/1673000/1673475/1673475.mp4/?rnd=1713377223006" 
+"https://www.ebony8.com/get_file/3/0615ec39fc3e456a389a0f04b11b9d369089eed0f7/56000/56065/56065.mp4/?br=918&rnd=1713377674124" 
 
     // Agrega aquí más URLs de videos según sea necesario
 ];
