@@ -1,7 +1,7 @@
 const videos = document.querySelectorAll('.video__player');
 const videoSources = [
 
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e977d5e44da13127048971_08(2).mp4",
+    "https://c1.coomer.su/data/d1/26/d126953eef6870f8f461d74354b0b56c58795bcc45472997b5b1a5597bf9b69c.m4v?f=ad680407-6dbc-4fac-aff2-8c912e1a6c07.m4v",
     "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e977d13f8854293a375871_08(1).mp4",
     "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e977cccafd905222beda00_07(1).mp4",
     "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e977c28868839e3e4054d6_06.mp4",
