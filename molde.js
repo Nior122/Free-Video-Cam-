@@ -4,29 +4,9 @@ const videoSources = [
     "https://thisvid.com/get_file/4/23276b5ae8e86298f00e3fb5d63313b2e3efaf6fd1/2020000/2020047/2020047.mp4/?rnd=17133767287", 
    " https://thisvid.com/get_file/4/eb5475471592494dec10b49b41594224e2a45eab96/1673000/1673475/1673475.mp4/?rnd=1713377223006", 
     "https://www.ebony8.com/get_file/3/0615ec39fc3e456a389a0f04b11b9d369089eed0f7/56000/56065/56065.mp4/?br=918&rnd=1713377674124", 
-
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e977d5e44da13127048971_08(2).mp4",
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e977d13f8854293a375871_08(1).mp4",
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e977cccafd905222beda00_07(1).mp4",
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e977c28868839e3e4054d6_06.mp4",
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e977b57d1533733ddb5046_05.mp4",
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e96dfa450c282ca832efa4_video_2024-03-05_16-01-32.mp4",
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e96dedbeb291f8e2e1c12c_IMG_5034.MP4",
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e96df36ce317053df1d9d6_video_2024-03-04_21-22-03.mp4",
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e970719626aa0169341c50_0307.mp4",
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e9779fe034c0252f6aa84f_01.mp4",
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e977a31e405a60c1417f11_02(1).mp4",
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e977a9bb7e199b53c30dfa_04.mp4",
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65cdad8fbb76f74aaf513e29_hea.mp4",
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65cda5d108add4c3077c80ed_14890030-720p.mp4",
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65c46678eb060b2652d58a40_e1369d63-4d07-4002-8e20-dba716380d5d_full-video_1080p_normal.mp4",
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65cdad742f8a25117bd64cc4_miser.mp4",
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65ed4fae370b0f7f3aecd1a3_10.mp4",
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65ed4fe2c836e1218aad72cc_11.mp4"
-    
-    
-
-
+     "https://m.mylust.com/get_file/1/152878c2bf9d2b59639b8e9b40cf5a529f025ea86d/965000/965389/965389.mp4/?br=319", 
+       "https://m.mylust.com/get_file/1/d3340b254b49d3e67091c93282e8f1f4a8f9fd555d/966000/966419/966419.mp4/?br=513", 
+        "https://m.mylust.com/get_file/1/34ac4d3ddf81ed8544446c823864664a40e53c2dff/966000/966497/966497.mp4/?br=394", 
     // Agrega aquí más URLs de videos según sea necesario
 ];
 
