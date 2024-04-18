@@ -13,8 +13,10 @@ const videoSources = [
      " https://thisvid.com/get_file/4/e480ee56a6889337df841409b1b9e7c8c93dbb8dbc/10853000/10853131/10853131.mp4/?rnd=1713445484511", 
      " https://thisvid.com/get_file/4/0f0125ee6a508aca647f20dc2cedc33c7596ce3f93/10599000/10599449/10599449.mp4/?rnd=1713445745583", 
      " https://thisvid.com/get_file/4/1c43b53ac8daa423ab8c2d347432fa930114511184/7729000/7729989/7729989.mp4/?rnd=1713445879341", 
-     
-    // Agrega aquí más URLs de videos según sea necesario
+     "https://thisvid.com/get_file/4/ae7a96c74727e8f3e5971918093b2dd3a9f6b6286a/10852000/10852937/10852937.mp4/?rnd=1713446488245", 
+     "https://thisvid.com/get_file/4/ce7bb77b8759fb0463333dc45b60f605fc244a2aff/10852000/10852921/10852921.mp4/?rnd=1713446569333", 
+     "https://thisvid.com/get_file/4/4859621f6577403f5947a7cc96c57b8e80e657e8cd/10852000/10852909/10852909.mp4/?rnd=1713446638364", 
+     // Agrega aquí más URLs de videos según sea necesario
 ];
 
 const nombresAleatorios = [
