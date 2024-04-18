@@ -7,6 +7,13 @@ const videoSources = [
      "https://m.mylust.com/get_file/1/152878c2bf9d2b59639b8e9b40cf5a529f025ea86d/965000/965389/965389.mp4/?br=319", 
        "https://m.mylust.com/get_file/1/d3340b254b49d3e67091c93282e8f1f4a8f9fd555d/966000/966419/966419.mp4/?br=513", 
         "https://m.mylust.com/get_file/1/34ac4d3ddf81ed8544446c823864664a40e53c2dff/966000/966497/966497.mp4/?br=394", 
+     "https://thisvid.com/get_file/4/6a5f853daef1f1fc998005cb01a64aa2346fc3f00f/10893000/10893117/10893117.mp4/?rnd=1713444801723", 
+     "https://thisvid.com/get_file/4/33a8da665e1e787d54c6295968169062df33923b40/10893000/10893095/10893095.mp4/?rnd=1713445091230", 
+     " https://thisvid.com/get_file/4/2dcd164b2732b12d52b0b260985bf6fcd898bd7ec2/10853000/10853117/10853117.mp4/?rnd=1713445418342", 
+     " https://thisvid.com/get_file/4/e480ee56a6889337df841409b1b9e7c8c93dbb8dbc/10853000/10853131/10853131.mp4/?rnd=1713445484511", 
+     " https://thisvid.com/get_file/4/0f0125ee6a508aca647f20dc2cedc33c7596ce3f93/10599000/10599449/10599449.mp4/?rnd=1713445745583", 
+     " https://thisvid.com/get_file/4/1c43b53ac8daa423ab8c2d347432fa930114511184/7729000/7729989/7729989.mp4/?rnd=1713445879341", 
+     
     // Agrega aquí más URLs de videos según sea necesario
 ];
 
