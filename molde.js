@@ -40,17 +40,17 @@ const videoSources = [
 ];
 
 const nombresAleatorios = [
-    "🇵🇹 Lorena Caterina 🇵🇹 ",
+    " Lorena Caterina 🇿🇦 ",
     "🇫🇮 Ana Maria 🇫🇮",
     "🇨🇦 Carolina Garcia 🇨🇦",
     "🇦🇺 NAKARY MILLER 🇦🇺",
     "🇺🇸 GRACIELA CATERINA 🇺🇸",
-    "🇻🇪 Valentina Ribeiro 🇻🇪",
-    "🇻🇪 G R A C I E L A 💘 🇻🇪",
+    "🇿🇦Valentina Ribeiro 🇿🇦",
+    "🇳🇬 G R A C I E L A 💘 🇳🇬",
     "🇵🇪 Mariana López 🇵🇪",
     "🇷🇴 Andrei Popescu 🇷🇴",
     "🇧🇪 Emma Dubois 🇧🇪",
-    "🇬🇷 Ioanna Papadopoulos 🇬🇷",
+    "🇳🇬 Ioanna Papadopoulos 🇳🇬",
     "🇨🇱 Matías Silva 🇨🇱",
     "🇭🇺 Levente Kovács 🇭🇺",
     "🇸🇦 Fatima Al-Mansoori 🇸🇦",
