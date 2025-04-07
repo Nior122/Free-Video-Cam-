@@ -46,9 +46,8 @@ const videoSources = [
             "https://video.twimg.com/amplify_video/1807989295766294532/vid/avc1/1080x1920/6hzsajqCPTaSw2ai.mp4",
             "https://video.twimg.com/amplify_video/1715004141490315264/vid/avc1/720x960/ytceyi5voSoDTOrF.mp4",
             "https://video.twimg.com/amplify_video/1807989295787266051/vid/avc1/1080x1920/dvv0fXIVpJ2paMIN.mp4",
-            "https://video.twimg.com/amplify_video/1731729223113662464/vid/avc1/720x1280/b2n5BcFsdK9enyct.mp4",
+            "https://video.twimg.com/amplify_video/1731729223113662464/vid/avc1/720x1280/b2n5BcFsdK9enyct.mp4",];
      // Agrega aquí más URLs de videos según sea necesario
-];
 
 const nombresAleatorios = [
     " Lorena Caterina 🇿🇦 ",
