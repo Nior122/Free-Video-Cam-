@@ -25,8 +25,8 @@ const videoSources = [
     "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65c46678eb060b2652d58a40_e1369d63-4d07-4002-8e20-dba716380d5d_full-video_1080p_normal.mp4",
     "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65cdad742f8a25117bd64cc4_miser.mp4",
     "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65ed4fae370b0f7f3aecd1a3_10.mp4",
-    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65ed4fe2c836e1218aad72cc_11.mp4"
-    
+    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65ed4fe2c836e1218aad72cc_11.mp4", 
+   
     "https://video.twimg.com/ext_tw_video/1544808646072229888/pu/vid/720x1124/z_A1dqkOSm3Ht2g-.mp4",
             "https://video.twimg.com/ext_tw_video/1837134244914585600/pu/vid/avc1/720x1280/URimxBokqSvFlItx.mp4",
             "https://video.twimg.com/amplify_video/1793299270499803137/vid/avc1/720x1280/2jAS4Kxxd2LXN1jF.mp4",
