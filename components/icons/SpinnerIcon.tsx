@@ -1,7 +1,7 @@
 
 import React from 'react';
 
-export const BotIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
+export const SpinnerIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     width="24"
@@ -12,12 +12,9 @@ export const BotIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     strokeWidth="2"
     strokeLinecap="round"
     strokeLinejoin="round"
+    className="animate-spin"
     {...props}
   >
-    <path d="M12 8V4H8" />
-    <rect width="16" height="12" x="4" y="8" rx="2" />
-    <path d="M2 14h2" />
-    <path d="M20 14h2" />
-    <path d="M15 13v-2a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v2" />
+    <path d="M21 12a9 9 0 1 1-6.219-8.56" />
   </svg>
 );
